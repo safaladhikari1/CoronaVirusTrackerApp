@@ -1,0 +1,7 @@
+package io.java.coronavirustracker.controllers;
+
+@Controller
+public class HomeController 
+{
+	
+}
