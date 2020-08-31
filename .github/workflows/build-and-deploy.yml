@@ -25,6 +25,6 @@ jobs:
         run: mvn clean package
       - uses: azure/webapps-deploy@v1
         with:
-          app-name: trackcorona
+          app-name: CoronaVirusTrackerApp
           publish-profile: ${{ secrets.azureWebAppPublishProfile }} # See https://github.com/Azure/actions-workflow-samples/tree/master/AppService
-          package: '${{ github.workspace }}/coronavirus-tracker/target/*.jar'
+          package: '${{ github.workspace }}/target/*.jar'
