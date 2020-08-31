@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/pc19/Desktop/ProjectX/SpringToolSuite"/>
 			<item value="/Users/pc19/Desktop/ProjectX/SpringToolSuite/coronavirus-tracker"/>
 		</list>
 		<list key="projectNameTemplate">
