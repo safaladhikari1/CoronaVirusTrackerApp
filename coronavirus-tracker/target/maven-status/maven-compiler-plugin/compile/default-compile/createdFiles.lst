@@ -1,0 +1,4 @@
+io/java/coronavirustracker/CoronavirusTrackerApplication.class
+io/java/coronavirustracker/models/LocationStats.class
+io/java/coronavirustracker/services/CoronaVirusDataService.class
+io/java/coronavirustracker/controllers/HomeController.class
